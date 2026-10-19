@@ -104,42 +104,6 @@ Team members are:
 
 Our current focus is collaborative planning and design. As development begins, tasks will be divided into clear modules, changes will be tracked through GitHub, and work will be reviewed before being integrated into the main branch.
 
-Suggested Git workflow
-git checkout main
-git pull origin main
-git checkout -b feature/your-task
-# Make and test your changes
-git add .
-git commit -m "Describe your change"
-git push -u origin feature/your-task
-
-Open a pull request for review before merging changes into main. Coordinate with the team before editing shared files or project configuration.
-
-Getting Started
-Prerequisites
-Flutter SDK
-Git
-Visual Studio Code or Android Studio
-Clone the repository
-git clone https://github.com/vaishnavi-v-kamble/CareConnect_Volunteer_System.git
-cd CareConnect_Volunteer_System
-Get dependencies
-flutter pub get
-Check available devices
-flutter devices
-Run the current Flutter project
-flutter run
-
-To run in Chrome, if web support is available:
-
-flutter run -d chrome
-
-The current Flutter project is an initial setup. The planned CareConnect features will be implemented after the design and requirements are finalized.
-
-Project Repository
-
-GitHub: CareConnect_Volunteer_System
-
 #Vision
 
 CareConnect aims to make community participation easier to organize by bringing people, organizations, and opportunities closer together.
