@@ -128,9 +128,9 @@ Our development journey is organized into the following phases.
 | No. | Team Member | Role |
 |:---:|:---|:---|
 | 1 | **Vaishnavi Vinod Kamble** | 👑 Group Leader |
-| 2 | Pournima Ananda Shirsat | 👩‍💻 Team Member |
-| 3 | Diksha Vikas Patil | 👩‍💻 Team Member |
-| 4 | Sadiccha Satish Patil | 👩‍💻 Team Member |
+| 2 | Diksha Vikas Patil | 👩‍💻 Team Member |
+| 3 | Sadiccha Satish Patil | 👩‍💻 Team Member |
+| 4 | Pournima Ananda Shirsat| 👩‍💻 Team Member |
 
 ### 🤝 Team Collaboration
 
